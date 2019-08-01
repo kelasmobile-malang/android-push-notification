@@ -11,3 +11,6 @@ https://github.com/firebase/quickstart-android/tree/master/messaging
 https://developer.android.com/courses/fundamentals-training/toc-v2
 https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-3-working-in-the-background/lesson-8-alarms-and-schedulers/8-1-c-notifications/8-1-c-notifications.html
 https://github.com/googlesamples
+
+## Link PPT Meetup
+https://drive.google.com/open?id=1CtnjWKQCXYACsUgP5hQGoQK8UoVqU4D9
